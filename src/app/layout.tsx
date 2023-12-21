@@ -18,9 +18,9 @@ export default async function RootLayout({
               Designed & Maintained with{" "}
               <span className="text-red-800">&#9825;</span> by{" "}
               <a href="https://linktr.ee/i_m_k_s_s" target="_blank">
-                Sunny
+                Manish Kumar
               </a>{" "}
-              &copy; 2024 All rights reserved
+              &copy; 2023 All rights reserved
             </b>
           </h5>
         </footer>
