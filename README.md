@@ -20,3 +20,8 @@ In this technical test, the candidate is required to design and develop a Next.j
 
 - Marking GIFs as favorites
 - Hot searching, loading animations
+
+
+# ScreenShot
+
+![Screenshot](https://github.com/ManishKr09/Alpha-BI---GiF-Hub/assets/134724965/981d7307-d263-437a-9935-eff65c0a1452)
